@@ -1,4 +1,4 @@
-# muhasebe
+# Jurni Upwork assessment
 
 A new Flutter project.
 
