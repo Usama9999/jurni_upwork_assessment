@@ -1,18 +1,14 @@
-import 'dart:convert';
-import 'dart:developer';
-
 import 'package:UpworkAssessment/globals/easy_loading.dart';
+import 'package:UpworkAssessment/globals/enum.dart';
 import 'package:UpworkAssessment/globals/global_functions.dart';
+import 'package:UpworkAssessment/globals/imports.dart';
+import 'package:UpworkAssessment/globals/ui_candies_functions.dart';
 import 'package:UpworkAssessment/modules/home/screens/home_page.dart';
 import 'package:UpworkAssessment/modules/onboarding/controllers/onbaording_controller.dart';
 import 'package:UpworkAssessment/modules/onboarding/controllers/onboarding_cont_repo.ex.dart';
 import 'package:UpworkAssessment/services/database_helper.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:UpworkAssessment/globals/enum.dart';
-import 'package:UpworkAssessment/globals/ui_candies_functions.dart';
-import 'package:UpworkAssessment/globals/imports.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import 'package:sign_in_with_apple/sign_in_with_apple.dart';
 
 class AuthController extends GetxController {

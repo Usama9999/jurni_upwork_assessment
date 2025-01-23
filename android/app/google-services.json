@@ -1,48 +1,40 @@
 {
   "project_info": {
-    "project_number": "630893296310",
-    "project_id": "rauchfrei-bd3ce",
-    "storage_bucket": "rauchfrei-bd3ce.appspot.com"
+    "project_number": "612728428200",
+    "project_id": "upwork-assessment-ca6fd",
+    "storage_bucket": "upwork-assessment-ca6fd.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:630893296310:android:b5090967de8b8ee874c417",
+        "mobilesdk_app_id": "1:612728428200:android:26458235bbc735c678949d",
         "android_client_info": {
-          "package_name": "app.rauchfrei.com"
+          "package_name": "com.upwork.assessment"
         }
       },
       "oauth_client": [
         {
-          "client_id": "630893296310-6dhole3bm9ebg66err739btnc611mj5f.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "app.rauchfrei.com",
-            "certificate_hash": "a779f7b321b1044337b3d462a50e59eeeb2533db"
-          }
-        },
-        {
-          "client_id": "630893296310-b5490mba05fi7vtkgqahb8imjlgo5sin.apps.googleusercontent.com",
+          "client_id": "612728428200-gmmlropel3jpv8usm95npu8o5ooo54ff.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCd2kPdtEi5HXW_vFPqEpQswFVQHYScRzo"
+          "current_key": "AIzaSyAwqXxcfdGBVJ1ahZrTwA5ersmIP61ONak"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "630893296310-b5490mba05fi7vtkgqahb8imjlgo5sin.apps.googleusercontent.com",
+              "client_id": "612728428200-gmmlropel3jpv8usm95npu8o5ooo54ff.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "630893296310-59n3r55r5ofqvnefubu6tknth6f712ml.apps.googleusercontent.com",
+              "client_id": "612728428200-d4pg2rtjupufka0f9v3541jefjtqekuv.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "app.rauchfrei.com"
+                "bundle_id": "com.upwork.assessment"
               }
             }
           ]
