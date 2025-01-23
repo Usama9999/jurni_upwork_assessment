@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>612728428200-d4pg2rtjupufka0f9v3541jefjtqekuv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.612728428200-d4pg2rtjupufka0f9v3541jefjtqekuv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCJgKpwph5ttWy8UbNoTTcKcl25ZcW8VEk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>612728428200</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.upwork.assessment</string>
+	<key>PROJECT_ID</key>
+	<string>upwork-assessment-ca6fd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>upwork-assessment-ca6fd.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:612728428200:ios:8b63fdc1a69fe88b78949d</string>
+</dict>
+</plist>
